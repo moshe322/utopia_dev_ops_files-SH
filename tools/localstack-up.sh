@@ -12,6 +12,7 @@ VER_MAJ=0
 VER_MIN=2
 VER_PATCH=0
 
+<--------version----------->
 ## LocalStack data directory   default= ~/.localstack
 #LS_DATA_DIR="$HOME/.localstack"
 
