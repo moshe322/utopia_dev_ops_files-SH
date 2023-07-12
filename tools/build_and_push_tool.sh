@@ -9,6 +9,7 @@ VER_PATCH=1
 # Project Directory
 PROJ_DIR="/mnt/d/programming_projects/smoothstack_training/python_cloud_engineer/utopia_airlines_flask"
 
+<-----version------>
 
 ########################################################################################################################
 #######################################                                         ########################################
